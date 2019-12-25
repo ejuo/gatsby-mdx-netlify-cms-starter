@@ -4,7 +4,7 @@ title: Home Page
 sections:
   - body: >-
       Extended1 from the Gatsby starter, this starter aims to provide an example
-      for using Gatsby-MDX with Netlify.
+      for using Gatsby-MDX with Netlify. 1
 
 
       ## Features
