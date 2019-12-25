@@ -6,5 +6,7 @@ menu_nav:
     url: /cms-unreachable
   - text: CMS created page
     url: /content/example-content-creation
+  - text: '1111'
+    url: '1111'
 ---
 
